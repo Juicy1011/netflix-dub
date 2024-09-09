@@ -1,0 +1,40 @@
+.row {
+    margin-left: 20px;
+    color: #fff;
+  }
+  
+  /* Styling for the movie posters container */
+  .row_posters {
+    display: flex;               /* Flexbox layout to arrange posters in a row */
+    overflow-y: hidden;          /* Hide vertical overflow */
+    overflow-x: auto;          /* Enable horizontal scrolling */
+    padding: 20px 0;             /* Padding for top and bottom */
+    white-space: nowrap;
+  }
+  
+  .row_posters::-webkit-scrollbar {
+    display: none;               /* Hide scrollbar for WebKit browsers (Chrome, Safari) */
+  }
+  
+  /* Common styles for movie posters */
+  .row_poster {
+    width: 100%;                 /* Ensures posters take up full width */
+    max-height: 150px;           /* Poster size for regular rows */
+    object-fit: contain;         /* Keep poster aspect ratio intact */
+    margin-right: 10px;          /* Space between posters */
+    transition: transform 0.2s;  /* Smooth transition for hover effect */
+    cursor: pointer;             /* Change cursor to pointer on hover */
+  }
+  
+  .row_posterLarge {
+    max-height: 250px;           /* Poster size for larger rows */
+  }
+  
+  /* Hover effect for movie posters */
+  .row_poster:hover {
+    transform: scale(1.08);      /* Slightly enlarge the poster on hover */
+    opacity: 1;                  /* Ensure full opacity on hover */
+  }
+  
+
+  
