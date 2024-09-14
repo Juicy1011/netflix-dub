@@ -12,6 +12,7 @@ import {
 import { auth } from './Firebase';
 import { useDispatch, useSelector } from 'react-redux';
 import { login, logout, selectUser } from './features/UserSlice';
+import ProfileScreen from './screens/ProfileScreen';
 
 function App() {
   const user= useSelector(selectUser) ;
@@ -29,7 +30,7 @@ function App() {
          
       } else {
         // Logged out
-        dispatch(logout);
+        dispatch(logout());
       }
     });
   
@@ -46,7 +47,7 @@ function App() {
       
       <Routes>
         <Route path="/" element={<HomeScreen />} />
-        <Route path="/test" element={<h2>This is crazy bro</h2>} />
+        <Route path="/profile" element={<ProfileScreen />} />
       </Routes>
       )}
     </Router>
