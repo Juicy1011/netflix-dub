@@ -1,0 +1,10 @@
+- generic [ref=e5]:
+  - button [ref=e6]
+  - button "Sign In" [active] [ref=e7] [cursor=pointer]
+  - generic [ref=e9]:
+    - heading "Unlimited films, TV programmes and more." [level=1] [ref=e10]
+    - heading "Watch anywhere. Cancel at any time." [level=2] [ref=e11]
+    - heading "Ready to watch? Enter your email to create or restart your membership" [level=3] [ref=e12]
+    - generic [ref=e14]:
+      - textbox "Email Address" [ref=e15]
+      - button "GET STARTED" [ref=e16] [cursor=pointer]

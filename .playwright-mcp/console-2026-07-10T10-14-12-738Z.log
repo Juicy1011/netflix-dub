@@ -1,0 +1,30 @@
+[    1530ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/static/js/bundle.js:66515
+[   28968ms] [WARNING] Form submission canceled because the form is not connected @ http://localhost:3000/:0
+[   29068ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ http://localhost:3000/:0
+[   41597ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=AIzaSyDp91GSwNyMundn1s9W_dxzCT_geCB3By0:0
+[   58489ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=AIzaSyDp91GSwNyMundn1s9W_dxzCT_geCB3By0:0
+[   77038ms] [LOG] null @ http://localhost:3000/static/js/bundle.js:193
+[   77039ms] [LOG] null @ http://localhost:3000/static/js/bundle.js:193
+[   77083ms] [LOG] UserCredentialImpl @ http://localhost:3000/static/js/bundle.js:1523
+[   77470ms] [LOG] {adult: false, backdrop_path: /mAXOCbZzvmDa6PCh5dcIPOB51Qc.jpg, genre_ids: Array(2), id: 63174, origin_country: Array(1)} @ http://localhost:3000/static/js/bundle.js:193
+[   77471ms] [LOG] {adult: false, backdrop_path: /mAXOCbZzvmDa6PCh5dcIPOB51Qc.jpg, genre_ids: Array(2), id: 63174, origin_country: Array(1)} @ http://localhost:3000/static/js/bundle.js:193
+[   77576ms] [LOG] {adult: false, backdrop_path: /9uOZUDapEqN8qiJ3z8aSCj5k488.jpg, genre_ids: Array(2), id: 283609, origin_country: Array(1)} @ http://localhost:3000/static/js/bundle.js:193
+[   77577ms] [LOG] {adult: false, backdrop_path: /9uOZUDapEqN8qiJ3z8aSCj5k488.jpg, genre_ids: Array(2), id: 283609, origin_country: Array(1)} @ http://localhost:3000/static/js/bundle.js:193
+[   97259ms] [WARNING] Form submission canceled because the form is not connected @ http://localhost:3000/profile:0
+[   97360ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ http://localhost:3000/profile:0
+[  116559ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=AIzaSyDp91GSwNyMundn1s9W_dxzCT_geCB3By0:0
+[  124745ms] [LOG] UserCredentialImpl @ http://localhost:3000/static/js/bundle.js:1531
+[  133119ms] [LOG] null @ http://localhost:3000/static/js/bundle.js:193
+[  133120ms] [LOG] null @ http://localhost:3000/static/js/bundle.js:193
+[  133165ms] [LOG] {adult: false, backdrop_path: /oBJ6dZ6A1tY1O94RmWnJkkQVbLz.jpg, genre_ids: Array(2), id: 286360, origin_country: Array(1)} @ http://localhost:3000/static/js/bundle.js:193
+[  133165ms] [LOG] {adult: false, backdrop_path: /oBJ6dZ6A1tY1O94RmWnJkkQVbLz.jpg, genre_ids: Array(2), id: 286360, origin_country: Array(1)} @ http://localhost:3000/static/js/bundle.js:193
+[  133199ms] [LOG] {adult: false, backdrop_path: /1qOA3kMtQO8bjnW8M2smjA8tp10.jpg, genre_ids: Array(3), id: 76669, origin_country: Array(1)} @ http://localhost:3000/static/js/bundle.js:193
+[  133200ms] [LOG] {adult: false, backdrop_path: /1qOA3kMtQO8bjnW8M2smjA8tp10.jpg, genre_ids: Array(3), id: 76669, origin_country: Array(1)} @ http://localhost:3000/static/js/bundle.js:193
+[  187825ms] [LOG] null @ http://localhost:3000/static/js/bundle.js:193
+[  187828ms] [LOG] null @ http://localhost:3000/static/js/bundle.js:193
+[  187961ms] [LOG] {adult: false, backdrop_path: /xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg, genre_ids: Array(4), id: 82452, origin_country: Array(1)} @ http://localhost:3000/static/js/bundle.js:193
+[  187962ms] [LOG] {adult: false, backdrop_path: /xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg, genre_ids: Array(4), id: 82452, origin_country: Array(1)} @ http://localhost:3000/static/js/bundle.js:193
+[ 1083644ms] [ERROR] WebSocket connection to 'ws://localhost:3000/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/static/js/bundle.js:69007
+[ 1085684ms] [ERROR] WebSocket connection to 'ws://localhost:3000/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/static/js/bundle.js:69007
+[ 1089767ms] [ERROR] WebSocket connection to 'ws://localhost:3000/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/static/js/bundle.js:69007
+[ 1097806ms] [ERROR] WebSocket connection to 'ws://localhost:3000/ws' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/static/js/bundle.js:69007

@@ -1,0 +1,13 @@
+- generic [ref=e80]:
+  - text: ProfileScreen
+  - generic [ref=e81]:
+    - generic:
+      - img "Netflix Logo" [ref=e82] [cursor=pointer]
+      - img "Netflix Avatar" [ref=e83] [cursor=pointer]
+  - generic [ref=e84]:
+    - heading "Edit Profile" [level=1] [ref=e85]
+    - generic [ref=e87]:
+      - heading "juicyplanet1@gmail.com" [level=2] [ref=e88]
+      - generic [ref=e89]:
+        - heading "Plans" [level=3] [ref=e90]
+        - button "Sign Out" [ref=e91] [cursor=pointer]

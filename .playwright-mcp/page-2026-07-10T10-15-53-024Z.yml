@@ -1,0 +1,9 @@
+- generic [ref=e93]:
+  - button [ref=e94]
+  - button "Sign In" [active] [ref=e95] [cursor=pointer]
+  - generic [ref=e106]:
+    - heading "Sign In" [level=1] [ref=e107]
+    - textbox "Email" [ref=e108]: ju
+    - textbox "Password" [ref=e109]
+    - button "Sign In" [ref=e110] [cursor=pointer]
+    - heading "New to Netflix?Sign Up now" [level=4] [ref=e111]
